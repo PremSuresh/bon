@@ -1,0 +1,11 @@
+{
+  "parameters": [
+    {
+      "id": 1,
+      "drowsybutton": 0,
+      "alarm": 0,
+      "accident": 0,
+      "sos": 0
+    }
+  ]
+}
